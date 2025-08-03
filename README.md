@@ -37,6 +37,8 @@ I am committed to clean code, efficient UI/UX, and continuous learning in web te
 |  **js-projects** | Mini JavaScript projects for DOM practice and interaction - fun and beginner-friendly! | [View Repo](https://github.com/Nikita13106/js-projects) |
 |  **leetcode-dsa-java** | My daily problem-solving tracker on LeetCode using Java - includes patterns, comments & logic! | [View Repo](https://github.com/Nikita13106/leetcode-dsa-java) |
 |  **react-projects** | A growing collection of React mini apps - includes components, hooks, and Tailwind styling! | [View Repo](https://github.com/Nikita13106/react-projects) |
+| **Basti Ki Pathshala Website** | A React-based volunteer and NGO website featuring reusable components, custom hooks, Tailwind CSS styling, and responsive design. | [View Repo](https://github.com/Nikita13106/basti-ki-pathshala-foundation) |
+
 
 ---
 
