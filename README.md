@@ -1,22 +1,22 @@
 <!-- Typing Animated Header -->
 <h1 align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=FF9BD2&center=true&vCenter=true&width=750&lines=Hii+I'm+Nikita+Mishra;Aspiring+Frontend+Developer;Learning+by+Building" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=FF9BD2&center=true&vCenter=true&width=750&lines=Hii+I'm+Nikita+Mishra;Learning+by+Building" alt="Typing SVG" />
 
 </h1>
 
-## 🌷 About Me
+##  About Me
 
 <p align="left">
 Hello, I’m <strong>Nikita Mishra</strong> – a passionate B.Tech AIML student at <strong>TCET</strong> with a strong focus on frontend web development. I specialize in building responsive, accessible, and interactive web applications using <strong>React</strong>, <strong>Tailwind CSS</strong>, and modern JavaScript. I also have a solid programming foundation in <strong>Java</strong> and sharpen my problem-solving skills through daily coding challenges on <strong>LeetCode</strong>.<br><br>
 I am committed to clean code, efficient UI/UX, and continuous learning in web technologies.<br><br>
 🔭 Currently working with:
 <ul>
-  <li>⚛️ <strong>React.js</strong> – component-driven architecture</li>
-  <li>🎨 <strong>Tailwind CSS</strong> – utility-first design</li>
-  <li>🧠 <strong>Java + Data Structures & Algorithms</strong> – algorithmic thinking</li>
-  <li>🗂️ <strong>Git & GitHub</strong> – version control and collaboration</li>
+  <li> <strong>React.js</strong> – component-driven architecture</li>
+  <li> <strong>Tailwind CSS</strong> – utility-first design</li>
+  <li> <strong>Java + Data Structures & Algorithms</strong> – algorithmic thinking</li>
+  <li> <strong>Git & GitHub</strong> – version control and collaboration</li>
 </ul>
-⭐ My core focus: creating scalable web solutions with performance, accessibility, and aesthetics in mind.
+ My core focus: creating scalable web solutions with performance, accessibility, and aesthetics in mind.
 </p>
 
 ---
@@ -29,9 +29,9 @@ I am committed to clean code, efficient UI/UX, and continuous learning in web te
 
 ---
 
-## 🎀 Repositories
+##  Repositories
 
-| 🌸 Repo Name | ✨ Description | 🔗 Link |
+|  Repo Name |  Description | 🔗 Link |
 |----------------|----------------|--------|
 |  **Java-Programs** | A collection of basic to intermediate Java programs - from loops to recursion. Great for brushing up logic! | [View Repo](https://github.com/Nikita13106/Java-Programs) |
 |  **js-projects** | Mini JavaScript projects for DOM practice and interaction - fun and beginner-friendly! | [View Repo](https://github.com/Nikita13106/js-projects) |
@@ -51,7 +51,7 @@ I am committed to clean code, efficient UI/UX, and continuous learning in web te
 
 ---
 
-## 💌 Connect With Me
+##  Connect With Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/nikita1310/" target="_blank">
@@ -70,7 +70,6 @@ I am committed to clean code, efficient UI/UX, and continuous learning in web te
 <p align="center">
   <img src="https://media.giphy.com/media/MeJgB3yMMwIaHmKD4z/giphy.gif" width="100px" alt="coding sparkles" />
   <br>
-  <i>Let's build beautiful code together 💗</i>
 </p>
 
 <!-- Footer Wave -->
