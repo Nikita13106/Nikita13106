@@ -7,24 +7,47 @@
 ##  About Me
 
 <p align="left">
-Hello, I’m <strong>Nikita Mishra</strong> – a passionate B.Tech AIML student at <strong>TCET</strong> with a strong focus on frontend web development. I specialize in building responsive, accessible, and interactive web applications using <strong>React</strong>, <strong>Tailwind CSS</strong>, and modern JavaScript. I also have a solid programming foundation in <strong>Java</strong> and sharpen my problem-solving skills through daily coding challenges on <strong>LeetCode</strong>.<br><br>
-I am committed to clean code, efficient UI/UX, and continuous learning in web technologies.<br><br>
-🔭 Currently working with:
-<ul>
-  <li> <strong>React.js</strong> – component-driven architecture</li>
-  <li> <strong>Tailwind CSS</strong> – utility-first design</li>
-  <li> <strong>Java + Data Structures & Algorithms</strong> – algorithmic thinking</li>
-  <li> <strong>Git & GitHub</strong> – version control and collaboration</li>
-</ul>
- My core focus: creating scalable web solutions with performance, accessibility, and aesthetics in mind.
-</p>
+Hello, I’m <strong>Nikita Mishra</strong>, a B.Tech AIML student at <strong>TCET</strong> with a strong focus on <strong>full-stack web development</strong>.
+
+I build real-world web applications using the <strong>MERN stack</strong>, focusing on scalable backend systems, clean APIs, and seamless user experiences. My projects involve file handling, cloud storage integration, and dynamic data-driven interfaces.
+
+🔭 **Currently working with:**
+- **Frontend:** React.js, Tailwind CSS  
+- **Backend:** Node.js, Express.js  
+- **Database:** MongoDB Atlas  
+- **Cloud:** Cloudinary (media storage)
+
+I actively apply my problem-solving skills through **Java + Data Structures & Algorithms**, while focusing on building impactful full-stack projects.
+
+💡 **Goal:** To become a proficient full-stack developer by building scalable, production-ready applications.
+
+---
+
+## 🚀 Featured Project
+
+### 📦 StudyVault - Student Resource Sharing Hub
+
+A full-stack web application that allows users to upload, manage, and download academic resources.
+
+✨ **Features:**
+- File upload using Multer
+- Cloud storage integration with Cloudinary
+- MongoDB Atlas for database management
+- Real-time UI updates after upload
+- Optimized file downloads using attachment handling
+
+🛠 **Tech Stack:**
+React, Node.js, Express.js, MongoDB Atlas, Cloudinary
+
+🔗 **Repository:**  
+https://github.com/Nikita13106/StudyVault
 
 ---
 
 ## 🔧 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,java,git,github" height="40" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,nodejs,express,mongodb,java,git,github" height="40" />
 </p>
 
 ---
@@ -33,6 +56,7 @@ I am committed to clean code, efficient UI/UX, and continuous learning in web te
 
 |  Repo Name |  Description | 🔗 Link |
 |----------------|----------------|--------|
+| **StudyVault** | Full-stack student resource sharing platform with file upload, cloud storage, and MongoDB Atlas integration. | [View Repo](https://github.com/Nikita13106/StudyVault) |
 |  **Java-Programs** | A collection of basic to intermediate Java programs - from loops to recursion. Great for brushing up logic! | [View Repo](https://github.com/Nikita13106/Java-Programs) |
 |  **js-projects** | Mini JavaScript projects for DOM practice and interaction - fun and beginner-friendly! | [View Repo](https://github.com/Nikita13106/js-projects) |
 |  **leetcode-dsa-java** | My daily problem-solving tracker on LeetCode using Java - includes patterns, comments & logic! | [View Repo](https://github.com/Nikita13106/leetcode-dsa-java) |
